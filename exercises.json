@@ -1,0 +1,3132 @@
+[
+  {
+    "id": "barbell-bench",
+    "name": "Barbell Bench Press (Alternate)",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "anterior deltoid"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "instructions": "Flat bench press; use spotter when needed.",
+    "sets": "3",
+    "reps": "3-6",
+    "tempo": "2-0-1",
+    "precautions": "Avoid bouncing off chest.",
+    "pain_safe": [],
+    "category": "chest/strength",
+    "references": [
+      "NSCA"
+    ]
+  },
+  {
+    "id": "incline-db-press",
+    "name": "Incline Dumbbell Press",
+    "primary_muscles": [
+      "pectoralis major",
+      "anterior deltoid"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "instructions": "Press dumbbells on incline bench (30-45°).",
+    "sets": "3-4",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Control descent, avoid arching back.",
+    "pain_safe": [],
+    "category": "push/chest/hypertrophy",
+    "references": [
+      "ACSM"
+    ]
+  },
+  {
+    "id": "db-fly",
+    "name": "Dumbbell Chest Fly",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "instructions": "Lie on bench, lower dumbbells in wide arc, bring together over chest.",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid overstretching shoulders.",
+    "pain_safe": [],
+    "category": "push/chest/accessory",
+    "references": [
+      "exercise texts"
+    ]
+  },
+  {
+    "id": "cable-chest-fly",
+    "name": "Cable Chest Fly",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [
+      "anterior deltoid"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Bring handles together in arc motion.",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid overstretching shoulders.",
+    "pain_safe": [],
+    "category": "push/chest/accessory",
+    "references": [
+      "NSCA"
+    ]
+  },
+  {
+    "id": "barbell-ohp",
+    "name": "Barbell Overhead Press",
+    "primary_muscles": [
+      "anterior deltoid"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "upper chest"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "instructions": "Press barbell overhead from collarbone.",
+    "sets": "4",
+    "reps": "5-8",
+    "tempo": "2-0-1",
+    "precautions": "Do not lean back.",
+    "pain_safe": [],
+    "category": "push/shoulder/compound",
+    "references": [
+      "NSCA"
+    ]
+  },
+  {
+    "id": "db-lateral-raise",
+    "name": "Dumbbell Lateral Raise",
+    "primary_muscles": [
+      "lateral deltoid"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Raise arms to side until shoulder height.",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-0-2",
+    "precautions": "Do not shrug.",
+    "pain_safe": [],
+    "category": "push/shoulder/isolation",
+    "references": [
+      "exercise guides"
+    ]
+  },
+  {
+    "id": "cable-lateral-raise",
+    "name": "Cable Lateral Raise",
+    "primary_muscles": [
+      "lateral deltoid"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Raise arm to side with cable to shoulder height.",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-0-2",
+    "precautions": "Use moderate weight for control.",
+    "pain_safe": [],
+    "category": "push/shoulder/isolation",
+    "references": [
+      "exercise guides"
+    ]
+  },
+  {
+    "id": "cable-face-pull",
+    "name": "Cable Face Pull",
+    "primary_muscles": [
+      "rear deltoid",
+      "rhomboids"
+    ],
+    "secondary_muscles": [
+      "trapezius"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Pull rope toward face with elbows high.",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-1-2",
+    "precautions": "Keep shoulders down.",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "push/shoulder/rehab",
+    "references": [
+      "physio review"
+    ]
+  },
+  {
+    "id": "barbell-row",
+    "name": "Barbell Row",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "rhomboids",
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "instructions": "Hinge at hips, row barbell to ribs.",
+    "sets": "4",
+    "reps": "6-10",
+    "tempo": "2-0-2",
+    "precautions": "Maintain neutral spine.",
+    "pain_safe": [],
+    "category": "pull/back/compound",
+    "references": [
+      "NSCA"
+    ]
+  },
+  {
+    "id": "db-row",
+    "name": "Dumbbell Row",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "rhomboids",
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Hinge at hip, row dumbbell to lower ribs.",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid trunk rotation.",
+    "pain_safe": [],
+    "category": "back/strength",
+    "references": [
+      "ACSM"
+    ]
+  },
+  {
+    "id": "cable-lat-pulldown",
+    "name": "Wide-Grip Lat Pulldown",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Pull bar to upper chest under control.",
+    "sets": "3-4",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Do not pull behind neck.",
+    "pain_safe": [],
+    "category": "pull/back/compound",
+    "references": [
+      "ACSM"
+    ]
+  },
+  {
+    "id": "pullup",
+    "name": "Pull-up",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "pull-up bar"
+    ],
+    "instructions": "Pull chest to bar, full range if able.",
+    "sets": "3",
+    "reps": "4-8",
+    "tempo": "2-0-1",
+    "precautions": "Use band assistance if needed.",
+    "pain_safe": [],
+    "category": "back/strength",
+    "references": [
+      "ACSM"
+    ]
+  },
+  {
+    "id": "db-hammer-curl",
+    "name": "Dumbbell Hammer Curl",
+    "primary_muscles": [
+      "biceps brachii",
+      "brachialis"
+    ],
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Neutral grip, curl dumbbells upward.",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid swinging.",
+    "pain_safe": [],
+    "category": "pull/biceps/accessory",
+    "references": [
+      "hypertrophy guidelines"
+    ]
+  },
+  {
+    "id": "cable-curl",
+    "name": "Cable Curl",
+    "primary_muscles": [
+      "biceps brachii"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Curl bar to shoulders with controlled motion.",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-0-2",
+    "precautions": "Keep elbows tucked.",
+    "pain_safe": [],
+    "category": "pull/biceps/accessory",
+    "references": [
+      "strength guidelines"
+    ]
+  },
+  {
+    "id": "ez-bar-curl",
+    "name": "EZ Bar Curl",
+    "primary_muscles": [
+      "biceps brachii"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "ez bar"
+    ],
+    "instructions": "Curl bar up with elbows stable.",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid swinging or arching back.",
+    "pain_safe": [],
+    "category": "pull/biceps/accessory",
+    "references": [
+      "strength manuals"
+    ]
+  },
+  {
+    "id": "barbell-squat",
+    "name": "Barbell Back Squat",
+    "primary_muscles": [
+      "quadriceps",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "hamstrings",
+      "erector spinae"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "instructions": "Bar across traps; squat to parallel with neutral spine.",
+    "sets": "3",
+    "reps": "3-6",
+    "tempo": "2-0-2",
+    "precautions": "Use safe depth; avoid knees valgus.",
+    "pain_safe": [],
+    "category": "legs/strength",
+    "references": [
+      "NSCA"
+    ]
+  },
+  {
+    "id": "front-squat",
+    "name": "Barbell Front Squat",
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "core",
+      "upper back"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "instructions": "Hold barbell on front shoulders, squat upright.",
+    "sets": "3-4",
+    "reps": "6-10",
+    "tempo": "3-0-1",
+    "precautions": "Keep elbows high.",
+    "pain_safe": [],
+    "category": "legs/quads/compound",
+    "references": [
+      "strength texts"
+    ]
+  },
+  {
+    "id": "leg-press",
+    "name": "Leg Press",
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "gluteus maximus",
+      "hamstrings"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Press weight upward with feet shoulder-width on sled.",
+    "sets": "4",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Do not lock knees.",
+    "pain_safe": [],
+    "category": "legs/quads/machine",
+    "references": [
+      "exercise texts"
+    ]
+  },
+  {
+    "id": "romanian-deadlift",
+    "name": "Romanian Deadlift",
+    "primary_muscles": [
+      "hamstrings",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "erector spinae"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "instructions": "Hip hinge, lower bar below knees, extend hips to rise.",
+    "sets": "3-4",
+    "reps": "6-10",
+    "tempo": "3-0-2",
+    "precautions": "Flat back, do not lock knees.",
+    "pain_safe": [
+      "low back"
+    ],
+    "category": "legs/hamstrings/compound",
+    "references": [
+      "NSCA"
+    ]
+  },
+  {
+    "id": "lying-leg-curl",
+    "name": "Lying Leg Curl",
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands",
+      "bench"
+    ],
+    "instructions": "Curl legs toward glutes under control.",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid jerking.",
+    "pain_safe": [],
+    "category": "legs/hamstrings/isolation",
+    "references": [
+      "exercise texts"
+    ]
+  },
+  {
+    "id": "hip-thrust",
+    "name": "Barbell Hip Thrust",
+    "primary_muscles": [
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "instructions": "Bridge hips up with barbell across pelvis.",
+    "sets": "3-4",
+    "reps": "6-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid hyperextension.",
+    "pain_safe": [],
+    "category": "legs/glutes/compound",
+    "references": [
+      "glute training guides"
+    ]
+  },
+  {
+    "id": "cable-kickback",
+    "name": "Cable Glute Kickback",
+    "primary_muscles": [
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Attach ankle strap, extend leg backward against resistance.",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-0-2",
+    "precautions": "Do not arch lower back.",
+    "pain_safe": [],
+    "category": "legs/glutes/accessory",
+    "references": [
+      "exercise texts"
+    ]
+  },
+  {
+    "id": "standing-calf-raise",
+    "name": "Standing Calf Raise",
+    "primary_muscles": [
+      "gastrocnemius",
+      "soleus"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight",
+      "dumbbells"
+    ],
+    "instructions": "Rise onto toes, hold, and descend slowly.",
+    "sets": "3-4",
+    "reps": "12-20",
+    "tempo": "2-1-2",
+    "precautions": "Do not bounce.",
+    "pain_safe": [],
+    "category": "legs/calves/isolation",
+    "references": [
+      "exercise guides"
+    ]
+  },
+  {
+    "id": "cable-crunch",
+    "name": "Cable Crunch",
+    "primary_muscles": [
+      "rectus abdominis"
+    ],
+    "secondary_muscles": [
+      "obliques"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Crunch with rope attachment, elbows to knees.",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-1-2",
+    "precautions": "Do not pull with arms.",
+    "pain_safe": [],
+    "category": "core/accessory",
+    "references": [
+      "core training manuals"
+    ]
+  },
+  {
+    "id": "band-ER",
+    "name": "Band External Rotation",
+    "primary_muscles": [
+      "infraspinatus",
+      "teres minor"
+    ],
+    "secondary_muscles": [
+      "posterior deltoid"
+    ],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Anchor band at elbow height. Keep elbow by side at 90°. Rotate forearm outward slowly and return.",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid sharp pain. Start very light.",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "shoulder/rehab",
+    "references": [
+      "AAOS rotator cuff guidance"
+    ]
+  },
+  {
+    "id": "band-facepull",
+    "name": "Band Face Pull",
+    "primary_muscles": [
+      "rear deltoid",
+      "rhomboids"
+    ],
+    "secondary_muscles": [
+      "trapezius"
+    ],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Anchor band at head height. Pull toward face, elbows high, squeeze scapulae.",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-1-2",
+    "precautions": "Keep shoulders low. Avoid shrugging.",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "shoulder/rehab",
+    "references": [
+      "Physio review"
+    ]
+  },
+  {
+    "id": "pushup",
+    "name": "Push-up",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "anterior deltoid"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Keep a straight line, lower chest to ~5cm from floor, press up.",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-1",
+    "precautions": "Avoid low-back sag; regress to incline if needed.",
+    "pain_safe": [],
+    "category": "chest/strength",
+    "references": [
+      "ACSM hypertrophy guidance"
+    ]
+  },
+  {
+    "id": "incline-pushup",
+    "name": "Incline Push-up",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Hands on elevated surface; perform push-up with neutral spine.",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-1",
+    "precautions": "",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "chest/strength",
+    "references": [
+      "ACSM"
+    ]
+  },
+  {
+    "id": "db-bench",
+    "name": "Dumbbell Bench Press",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "anterior deltoid"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "instructions": "Press dumbbells up while maintaining scapular stability.",
+    "sets": "3",
+    "reps": "6-12",
+    "tempo": "2-0-2",
+    "precautions": "Control descent.",
+    "pain_safe": [],
+    "category": "chest/strength",
+    "references": [
+      "NSCA"
+    ]
+  },
+  {
+    "id": "barbell-row_alt",
+    "name": "Barbell Bent-over Row (Alt)",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "rhomboids",
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "instructions": "Hinge and row the barbell keeping back flat.",
+    "sets": "3",
+    "reps": "5-8",
+    "tempo": "2-0-2",
+    "precautions": "Keep neutral spine.",
+    "pain_safe": [],
+    "category": "back/strength",
+    "references": [
+      "NSCA"
+    ]
+  },
+  {
+    "id": "inverted-row",
+    "name": "Inverted Row",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "rhomboids",
+      "biceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Pull chest toward bar with the body straight.",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-1",
+    "precautions": "Adjust height to modify difficulty.",
+    "pain_safe": [],
+    "category": "back/strength",
+    "references": [
+      "physio guides"
+    ]
+  },
+  {
+    "id": "goblet-squat",
+    "name": "Goblet Squat",
+    "primary_muscles": [
+      "quadriceps",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "core"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Hold weight at chest and squat keeping upright torso.",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Keep knees tracking toes.",
+    "pain_safe": [
+      "knee"
+    ],
+    "category": "legs/strength",
+    "references": [
+      "ACSM"
+    ]
+  },
+  {
+    "id": "romanian-deadlift_orig",
+    "name": "Romanian Deadlift (Dumbbell/Barbell)",
+    "primary_muscles": [
+      "hamstrings",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "erector spinae"
+    ],
+    "equipment": [
+      "dumbbells",
+      "barbell"
+    ],
+    "instructions": "Hinge at hips, feel stretch in hamstrings, maintain neutral spine.",
+    "sets": "3",
+    "reps": "6-10",
+    "tempo": "3-0-2",
+    "precautions": "Don't round lower back.",
+    "pain_safe": [
+      "low back"
+    ],
+    "category": "posterior chain/strength",
+    "references": [
+      "NSCA"
+    ]
+  },
+  {
+    "id": "single-leg-rdl",
+    "name": "Single-leg RDL",
+    "primary_muscles": [
+      "hamstrings",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "core"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Hinge on one leg, keep hips square, control descent.",
+    "sets": "3",
+    "reps": "6-10",
+    "tempo": "3-0-2",
+    "precautions": "Use support if balance limited.",
+    "pain_safe": [
+      "knee"
+    ],
+    "category": "posterior chain/strength",
+    "references": [
+      "physio"
+    ]
+  },
+  {
+    "id": "hip-thrust_orig",
+    "name": "Hip Thrust (DB/Barbell)",
+    "primary_muscles": [
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell",
+      "dumbbells",
+      "bench"
+    ],
+    "instructions": "Top of hip bridge; squeeze glutes at lockout.",
+    "sets": "3",
+    "reps": "6-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid hyperextension.",
+    "pain_safe": [],
+    "category": "glute/strength",
+    "references": [
+      "ACSM"
+    ]
+  },
+  {
+    "id": "glute-bridge_orig",
+    "name": "Glute Bridge",
+    "primary_muscles": [
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight",
+      "dumbbells"
+    ],
+    "instructions": "Drive hips up, pause, lower under control.",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-0-2",
+    "precautions": "Keep ribcage down.",
+    "pain_safe": [
+      "low back"
+    ],
+    "category": "glute/rehab",
+    "references": [
+      "physio"
+    ]
+  },
+  {
+    "id": "step-up_orig",
+    "name": "Step-up (box)",
+    "primary_muscles": [
+      "quadriceps",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Step up leading with full foot, control descent.",
+    "sets": "3",
+    "reps": "8-12 each leg",
+    "tempo": "2-0-2",
+    "precautions": "Use height that allows control.",
+    "pain_safe": [
+      "knee"
+    ],
+    "category": "knee/rehab",
+    "references": [
+      "PFPS studies"
+    ]
+  },
+  {
+    "id": "clamshell_orig",
+    "name": "Clamshell",
+    "primary_muscles": [
+      "gluteus medius",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Lie on side, knees bent. Open top knee against band.",
+    "sets": "3",
+    "reps": "15",
+    "tempo": "2-0-2",
+    "precautions": "Keep pelvis stable.",
+    "pain_safe": [
+      "knee"
+    ],
+    "category": "hip/rehab",
+    "references": [
+      "PFPS meta-analysis"
+    ]
+  },
+  {
+    "id": "band-lateral-walk_orig",
+    "name": "Banded Lateral Walk",
+    "primary_muscles": [
+      "gluteus medius"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Low squat, step laterally keeping tension on band.",
+    "sets": "3",
+    "reps": "10 steps each way",
+    "tempo": "-",
+    "precautions": "Avoid knees caving in.",
+    "pain_safe": [
+      "knee"
+    ],
+    "category": "hip/rehab",
+    "references": [
+      "PFPS"
+    ]
+  },
+  {
+    "id": "bird-dog_orig",
+    "name": "Bird Dog",
+    "primary_muscles": [
+      "erector spinae",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "core"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Reach opposite arm and leg, keep neutral spine.",
+    "sets": "3",
+    "reps": "8-12 each side",
+    "tempo": "2-0-2",
+    "precautions": "Avoid rotation.",
+    "pain_safe": [
+      "low back"
+    ],
+    "category": "core/rehab",
+    "references": [
+      "low back rehab"
+    ]
+  },
+  {
+    "id": "dead-bug_orig",
+    "name": "Dead Bug",
+    "primary_muscles": [
+      "transverse abdominis",
+      "rectus abdominis"
+    ],
+    "secondary_muscles": [
+      "obliques"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Opposite arm/leg lowers while maintaining neutral spine.",
+    "sets": "3",
+    "reps": "8-12 each side",
+    "tempo": "2-0-2",
+    "precautions": "Don't arch low back.",
+    "pain_safe": [
+      "low back"
+    ],
+    "category": "core/rehab",
+    "references": [
+      "clinical guides"
+    ]
+  },
+  {
+    "id": "db-shoulder-press_orig",
+    "name": "Dumbbell Shoulder Press",
+    "primary_muscles": [
+      "anterior deltoid"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Press overhead with tight core and neutral neck.",
+    "sets": "3",
+    "reps": "6-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid shrugging shoulders.",
+    "pain_safe": [],
+    "category": "shoulder/strength",
+    "references": [
+      "NSCA"
+    ]
+  },
+  {
+    "id": "face-pull_orig",
+    "name": "Face Pull (cable)",
+    "primary_muscles": [
+      "rear deltoid",
+      "rhomboids"
+    ],
+    "secondary_muscles": [
+      "trapezius"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Pull rope toward face with elbows high, squeeze scapulae.",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-1-2",
+    "precautions": "Use moderate load.",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "shoulder/rehab",
+    "references": [
+      "physio review"
+    ]
+  },
+  {
+    "id": "incline-db-press_orig",
+    "name": "Incline Dumbbell Press (orig)",
+    "primary_muscles": [
+      "pectoralis major",
+      "anterior deltoid"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "instructions": "45° bench press with control.",
+    "sets": "3",
+    "reps": "6-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive shoulder elevation.",
+    "pain_safe": [],
+    "category": "chest/strength",
+    "references": [
+      "ACSM"
+    ]
+  },
+  {
+    "id": "cable-triceps_orig",
+    "name": "Cable Triceps Pushdown",
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Keep elbows by side, extend fully.",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-0-1",
+    "precautions": "Don't flare elbows.",
+    "pain_safe": [],
+    "category": "triceps/accessory",
+    "references": [
+      "strength guides"
+    ]
+  },
+  {
+    "id": "band-pushdown_orig",
+    "name": "Band Triceps Pushdown",
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Anchor band overhead; push down keeping elbows stable.",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-0-1",
+    "precautions": "Start light.",
+    "pain_safe": [],
+    "category": "triceps/accessory",
+    "references": [
+      "practical guides"
+    ]
+  },
+  {
+    "id": "ecc-wrist-ext",
+    "name": "Eccentric Wrist Extensor",
+    "primary_muscles": [
+      "wrist extensors"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbells",
+      "resistance bands"
+    ],
+    "instructions": "Use non-painful movement, lower slowly eccentrically.",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "3-0-2",
+    "precautions": "Stop if sharp pain.",
+    "pain_safe": [
+      "elbow",
+      "wrist"
+    ],
+    "category": "elbow/rehab",
+    "references": [
+      "tennis elbow trials"
+    ]
+  },
+  {
+    "id": "chin-tuck",
+    "name": "Chin Tuck",
+    "primary_muscles": [
+      "deep neck flexors"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Retract chin gently to create a double chin and hold.",
+    "sets": "2",
+    "reps": "10",
+    "tempo": "2-0-2",
+    "precautions": "No sharp pain.",
+    "pain_safe": [
+      "neck"
+    ],
+    "category": "neck/rehab",
+    "references": [
+      "cervical rehab review"
+    ]
+  },
+  {
+    "id": "upper-trap-stretch",
+    "name": "Upper Trap Stretch",
+    "primary_muscles": [
+      "upper trapezius"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Side-bend neck with gentle hand assistance; hold.",
+    "sets": "3",
+    "reps": "30s each side",
+    "tempo": "-",
+    "precautions": "Avoid sharp pain.",
+    "pain_safe": [
+      "neck"
+    ],
+    "category": "neck/rehab",
+    "references": [
+      "physio resources"
+    ]
+  },
+  {
+    "id": "band-row",
+    "name": "Seated Band Row",
+    "primary_muscles": [
+      "rhomboids",
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Pull band toward chest while sitting tall.",
+    "sets": "3",
+    "reps": "10-12",
+    "tempo": "2-0-2",
+    "precautions": "Keep shoulders down.",
+    "pain_safe": [],
+    "category": "back/accessory",
+    "references": [
+      "strength guidelines"
+    ]
+  },
+  {
+    "id": "incline-db-row",
+    "name": "Incline Dumbbell Row",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "rhomboids"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "instructions": "Lie chest-down on incline bench and row.",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Maintain thoracic stability.",
+    "pain_safe": [],
+    "category": "back/accessory",
+    "references": [
+      "exercise texts"
+    ]
+  },
+  {
+    "id": "step-through",
+    "name": "Step-through Lunge",
+    "primary_muscles": [
+      "gluteus maximus",
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight",
+      "dumbbells"
+    ],
+    "instructions": "Step forward and return stepping through; control motion.",
+    "sets": "3",
+    "reps": "8-12 each leg",
+    "tempo": "2-0-2",
+    "precautions": "Knee tracking good.",
+    "pain_safe": [
+      "knee"
+    ],
+    "category": "legs/accessory",
+    "references": [
+      "sports med"
+    ]
+  },
+  {
+    "id": "single-leg-RDL",
+    "name": "Single-leg Romanian Deadlift",
+    "primary_muscles": [
+      "hamstrings",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "core"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Hinge on standing leg, keep hips square.",
+    "sets": "3",
+    "reps": "6-10",
+    "tempo": "3-0-2",
+    "precautions": "Use support if needed.",
+    "pain_safe": [],
+    "category": "posterior chain",
+    "references": [
+      "strength guides"
+    ]
+  },
+  {
+    "id": "push-press",
+    "name": "Push Press",
+    "primary_muscles": [
+      "deltoids",
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "legs"
+    ],
+    "equipment": [
+      "barbell",
+      "dumbbells"
+    ],
+    "instructions": "Dip drive and press overhead; use leg drive for power.",
+    "sets": "3",
+    "reps": "3-6",
+    "tempo": "explosive",
+    "precautions": "Technique critical.",
+    "pain_safe": [],
+    "category": "power/strength",
+    "references": [
+      "power training"
+    ]
+  },
+  {
+    "id": "tempo-squat",
+    "name": "Tempo Goblet Squat (3-1-2)",
+    "primary_muscles": [
+      "quadriceps",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "core"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Slow 3s descent, 1s pause, 2s ascent.",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "3-1-2",
+    "precautions": "Control and posture.",
+    "pain_safe": [
+      "knee"
+    ],
+    "category": "legs/tempo",
+    "references": [
+      "hypertrophy studies"
+    ]
+  },
+  {
+    "id": "band-pullapart",
+    "name": "Band Pull-apart",
+    "primary_muscles": [
+      "rear deltoid",
+      "rhomboids"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Pull band apart at shoulder height, squeeze scapulae.",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-1-2",
+    "precautions": "Controlled shoulders.",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "shoulder/rehab",
+    "references": [
+      "physio"
+    ]
+  },
+  {
+    "id": "tke",
+    "name": "Terminal Knee Extension (TKE)",
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Anchor band behind knee and extend leg against resistance.",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-0-1",
+    "precautions": "Control speed.",
+    "pain_safe": [
+      "knee"
+    ],
+    "category": "knee/rehab",
+    "references": [
+      "PFPS research"
+    ]
+  },
+  {
+    "id": "row-to-standing",
+    "name": "Cable Row to Standing (band alt)",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Row to lower ribs maintaining upright torso.",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid shrugging.",
+    "pain_safe": [],
+    "category": "back/accessory",
+    "references": [
+      "guides"
+    ]
+  },
+  {
+    "id": "light-cardio",
+    "name": "Light Cardio Warm-up",
+    "primary_muscles": [],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "5-10 minutes light cycling or jogging to increase blood flow.",
+    "sets": "1",
+    "reps": "5-10min",
+    "tempo": "-",
+    "precautions": "Keep intensity low.",
+    "pain_safe": [],
+    "category": "warmup",
+    "references": [
+      "ACSM"
+    ]
+  },
+  {
+    "id": "band-chest-fly",
+    "name": "Band Chest Fly",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Anchor behind; control arc bringing hands together at midline.",
+    "sets": "3",
+    "reps": "10-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid overstretching.",
+    "pain_safe": [],
+    "category": "chest/accessory",
+    "references": [
+      "exercise texts"
+    ]
+  },
+  {
+    "id": "incline-walk",
+    "name": "Incline Walking (conditioning)",
+    "primary_muscles": [
+      "cardio"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "20-30 minutes brisk incline walk",
+    "sets": "1",
+    "reps": "20-30min",
+    "tempo": "-",
+    "precautions": "Monitor intensity",
+    "pain_safe": [],
+    "category": "conditioning",
+    "references": [
+      "guidelines"
+    ]
+  },
+  {
+    "id": "slow-eccentric-ez-bar-curl",
+    "name": "Slow-Eccentric EZ Bar Curl",
+    "primary_muscles": [
+      "biceps brachii"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "ez bar"
+    ],
+    "instructions": "Curl bar up with elbows stable. (Variation: Slow-Eccentric EZ Bar Curl)",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid swinging or arching back.",
+    "pain_safe": [],
+    "category": "pull/biceps/accessory",
+    "references": [
+      "Adapted for available equipment",
+      "strength manuals"
+    ]
+  },
+  {
+    "id": "slow-eccentric-romanian-deadlift-dumbbell-barbell",
+    "name": "Slow-Eccentric Romanian Deadlift (Dumbbell/Barbell)",
+    "primary_muscles": [
+      "hamstrings",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "erector spinae"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Hinge at hips, feel stretch in hamstrings, maintain neutral spine. (Variation: Slow-Eccentric Romanian Deadlift (Dumbbell/Barbell))",
+    "sets": "3",
+    "reps": "6-10",
+    "tempo": "3-0-2",
+    "precautions": "Don't round lower back.Modify load and range to tolerance.",
+    "pain_safe": [
+      "low back"
+    ],
+    "category": "posterior chain/strength",
+    "references": [
+      "Adapted for available equipment",
+      "NSCA"
+    ]
+  },
+  {
+    "id": "isolated-cable-curl",
+    "name": "Isolated Cable Curl",
+    "primary_muscles": [
+      "biceps brachii"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Curl bar to shoulders with controlled motion. (Variation: Isolated Cable Curl)",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-0-2",
+    "precautions": "Keep elbows tucked.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "pull/biceps/accessory",
+    "references": [
+      "Adapted for available equipment",
+      "strength guidelines"
+    ]
+  },
+  {
+    "id": "unilateral-pull-up",
+    "name": "Unilateral Pull-up",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "pull-up bar"
+    ],
+    "instructions": "Pull chest to bar, full range if able. (Variation: Unilateral Pull-up)",
+    "sets": "3",
+    "reps": "4-8",
+    "tempo": "2-0-1",
+    "precautions": "Use band assistance if needed.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "back/strength",
+    "references": [
+      "ACSM",
+      "Adapted for available equipment"
+    ]
+  },
+  {
+    "id": "single-arm-barbell-overhead-press",
+    "name": "Single-Arm Barbell Overhead Press",
+    "primary_muscles": [
+      "anterior deltoid"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "upper chest"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Press barbell overhead from collarbone. (Variation: Single-Arm Barbell Overhead Press)",
+    "sets": "4",
+    "reps": "5-8",
+    "tempo": "2-0-1",
+    "precautions": "Do not lean back.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "push/shoulder/compound",
+    "references": [
+      "Adapted for available equipment",
+      "NSCA"
+    ]
+  },
+  {
+    "id": "unilateral-push-up",
+    "name": "Unilateral Push-up",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "anterior deltoid"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Keep a straight line, lower chest to ~5cm from floor, press up. (Variation: Unilateral Push-up)",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-1",
+    "precautions": "Avoid low-back sag; regress to incline if needed.",
+    "pain_safe": [],
+    "category": "chest/strength",
+    "references": [
+      "Adapted for available equipment",
+      "ACSM hypertrophy guidance"
+    ]
+  },
+  {
+    "id": "isolated-cable-chest-fly",
+    "name": "Isolated Cable Chest Fly",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [
+      "anterior deltoid"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Bring handles together in arc motion. (Variation: Isolated Cable Chest Fly)",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid overstretching shoulders.",
+    "pain_safe": [],
+    "category": "push/chest/accessory",
+    "references": [
+      "Adapted for available equipment",
+      "NSCA"
+    ]
+  },
+  {
+    "id": "band-resisted-seated-band-row",
+    "name": "Band-Resisted Seated Band Row",
+    "primary_muscles": [
+      "rhomboids",
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Pull band toward chest while sitting tall. (Variation: Band-Resisted Seated Band Row)",
+    "sets": "3",
+    "reps": "10-12",
+    "tempo": "2-0-2",
+    "precautions": "Keep shoulders down.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "back/accessory",
+    "references": [
+      "Adapted for available equipment",
+      "strength guidelines"
+    ]
+  },
+  {
+    "id": "isometric-hold-push-press",
+    "name": "Isometric Hold Push Press",
+    "primary_muscles": [
+      "deltoids",
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "legs"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Dip drive and press overhead; use leg drive for power. (Variation: Isometric Hold Push Press)",
+    "sets": "3",
+    "reps": "3-6",
+    "tempo": "explosive",
+    "precautions": "Technique critical.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "power/strength",
+    "references": [
+      "Adapted for available equipment",
+      "power training"
+    ]
+  },
+  {
+    "id": "slow-eccentric-barbell-bench-press-alternate",
+    "name": "Slow-Eccentric Barbell Bench Press (Alternate)",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "anterior deltoid"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "instructions": "Flat bench press; use spotter when needed. (Variation: Slow-Eccentric Barbell Bench Press (Alternate))",
+    "sets": "3",
+    "reps": "3-6",
+    "tempo": "2-0-1",
+    "precautions": "Avoid bouncing off chest.",
+    "pain_safe": [],
+    "category": "chest/strength",
+    "references": [
+      "Adapted for available equipment",
+      "NSCA"
+    ]
+  },
+  {
+    "id": "isometric-hold-dead-bug",
+    "name": "Isometric Hold Dead Bug",
+    "primary_muscles": [
+      "transverse abdominis",
+      "rectus abdominis"
+    ],
+    "secondary_muscles": [
+      "obliques"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Opposite arm/leg lowers while maintaining neutral spine. (Variation: Isometric Hold Dead Bug)",
+    "sets": "3",
+    "reps": "8-12 each side",
+    "tempo": "2-0-2",
+    "precautions": "Don't arch low back.Modify load and range to tolerance.",
+    "pain_safe": [
+      "low back"
+    ],
+    "category": "core/rehab",
+    "references": [
+      "Adapted for available equipment",
+      "clinical guides"
+    ]
+  },
+  {
+    "id": "close-grip-lying-leg-curl",
+    "name": "Close-Grip Lying Leg Curl",
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands",
+      "bench"
+    ],
+    "instructions": "Curl legs toward glutes under control. (Variation: Close-Grip Lying Leg Curl)",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid jerking.",
+    "pain_safe": [],
+    "category": "legs/hamstrings/isolation",
+    "references": [
+      "Adapted for available equipment",
+      "exercise texts"
+    ]
+  },
+  {
+    "id": "feet-elevated-dead-bug",
+    "name": "Feet-Elevated Dead Bug",
+    "primary_muscles": [
+      "transverse abdominis",
+      "rectus abdominis"
+    ],
+    "secondary_muscles": [
+      "obliques"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Opposite arm/leg lowers while maintaining neutral spine. (Variation: Feet-Elevated Dead Bug)",
+    "sets": "3",
+    "reps": "8-12 each side",
+    "tempo": "2-0-2",
+    "precautions": "Don't arch low back.Modify load and range to tolerance.",
+    "pain_safe": [
+      "low back"
+    ],
+    "category": "core/rehab",
+    "references": [
+      "Adapted for available equipment",
+      "clinical guides"
+    ]
+  },
+  {
+    "id": "band-resisted-dumbbell-hammer-curl",
+    "name": "Band-Resisted Dumbbell Hammer Curl",
+    "primary_muscles": [
+      "biceps brachii",
+      "brachialis"
+    ],
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Neutral grip, curl dumbbells upward. (Variation: Band-Resisted Dumbbell Hammer Curl)",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid swinging.",
+    "pain_safe": [],
+    "category": "pull/biceps/accessory",
+    "references": [
+      "Adapted for available equipment",
+      "hypertrophy guidelines"
+    ]
+  },
+  {
+    "id": "feet-elevated-inverted-row",
+    "name": "Feet-Elevated Inverted Row",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "rhomboids",
+      "biceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Pull chest toward bar with the body straight. (Variation: Feet-Elevated Inverted Row)",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-1",
+    "precautions": "Adjust height to modify difficulty.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "back/strength",
+    "references": [
+      "Adapted for available equipment",
+      "physio guides"
+    ]
+  },
+  {
+    "id": "isometric-hold-tempo-goblet-squat-3-1-2",
+    "name": "Isometric Hold Tempo Goblet Squat (3-1-2)",
+    "primary_muscles": [
+      "quadriceps",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "core"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Slow 3s descent, 1s pause, 2s ascent. (Variation: Isometric Hold Tempo Goblet Squat (3-1-2))",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "3-1-2",
+    "precautions": "Control and posture.Modify load and range to tolerance.",
+    "pain_safe": [
+      "knee"
+    ],
+    "category": "legs/tempo",
+    "references": [
+      "Adapted for available equipment",
+      "hypertrophy studies"
+    ]
+  },
+  {
+    "id": "close-grip-barbell-back-squat",
+    "name": "Close-Grip Barbell Back Squat",
+    "primary_muscles": [
+      "quadriceps",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "hamstrings",
+      "erector spinae"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Bar across traps; squat to parallel with neutral spine. (Variation: Close-Grip Barbell Back Squat)",
+    "sets": "3",
+    "reps": "3-6",
+    "tempo": "2-0-2",
+    "precautions": "Use safe depth; avoid knees valgus.",
+    "pain_safe": [],
+    "category": "legs/strength",
+    "references": [
+      "Adapted for available equipment",
+      "NSCA"
+    ]
+  },
+  {
+    "id": "unilateral-hip-thrust-db-barbell",
+    "name": "Unilateral Hip Thrust (DB/Barbell)",
+    "primary_muscles": [
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell",
+      "dumbbells",
+      "bench"
+    ],
+    "instructions": "Top of hip bridge; squeeze glutes at lockout. (Variation: Unilateral Hip Thrust (DB/Barbell))",
+    "sets": "3",
+    "reps": "6-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid hyperextension.",
+    "pain_safe": [],
+    "category": "glute/strength",
+    "references": [
+      "ACSM",
+      "Adapted for available equipment"
+    ]
+  },
+  {
+    "id": "unilateral-face-pull-cable",
+    "name": "Unilateral Face Pull (cable)",
+    "primary_muscles": [
+      "rear deltoid",
+      "rhomboids"
+    ],
+    "secondary_muscles": [
+      "trapezius"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Pull rope toward face with elbows high, squeeze scapulae. (Variation: Unilateral Face Pull (cable))",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-1-2",
+    "precautions": "Use moderate load.Modify load and range to tolerance.",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "shoulder/rehab",
+    "references": [
+      "Adapted for available equipment",
+      "physio review"
+    ]
+  },
+  {
+    "id": "isolated-dumbbell-lateral-raise",
+    "name": "Isolated Dumbbell Lateral Raise",
+    "primary_muscles": [
+      "lateral deltoid"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Raise arms to side until shoulder height. (Variation: Isolated Dumbbell Lateral Raise)",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-0-2",
+    "precautions": "Do not shrug.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "push/shoulder/isolation",
+    "references": [
+      "Adapted for available equipment",
+      "exercise guides"
+    ]
+  },
+  {
+    "id": "isometric-hold-push-up",
+    "name": "Isometric Hold Push-up",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "anterior deltoid"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Keep a straight line, lower chest to ~5cm from floor, press up. (Variation: Isometric Hold Push-up)",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-1",
+    "precautions": "Avoid low-back sag; regress to incline if needed.",
+    "pain_safe": [],
+    "category": "chest/strength",
+    "references": [
+      "Adapted for available equipment",
+      "ACSM hypertrophy guidance"
+    ]
+  },
+  {
+    "id": "band-resisted-wide-grip-lat-pulldown",
+    "name": "Band-Resisted Wide-Grip Lat Pulldown",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Pull bar to upper chest under control. (Variation: Band-Resisted Wide-Grip Lat Pulldown)",
+    "sets": "3-4",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Do not pull behind neck.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "pull/back/compound",
+    "references": [
+      "ACSM",
+      "Adapted for available equipment"
+    ]
+  },
+  {
+    "id": "close-grip-dumbbell-hammer-curl",
+    "name": "Close-Grip Dumbbell Hammer Curl",
+    "primary_muscles": [
+      "biceps brachii",
+      "brachialis"
+    ],
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Neutral grip, curl dumbbells upward. (Variation: Close-Grip Dumbbell Hammer Curl)",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid swinging.",
+    "pain_safe": [],
+    "category": "pull/biceps/accessory",
+    "references": [
+      "Adapted for available equipment",
+      "hypertrophy guidelines"
+    ]
+  },
+  {
+    "id": "close-grip-romanian-deadlift-dumbbell-barbell",
+    "name": "Close-Grip Romanian Deadlift (Dumbbell/Barbell)",
+    "primary_muscles": [
+      "hamstrings",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "erector spinae"
+    ],
+    "equipment": [
+      "dumbbells",
+      "barbell"
+    ],
+    "instructions": "Hinge at hips, feel stretch in hamstrings, maintain neutral spine. (Variation: Close-Grip Romanian Deadlift (Dumbbell/Barbell))",
+    "sets": "3",
+    "reps": "6-10",
+    "tempo": "3-0-2",
+    "precautions": "Don't round lower back.Modify load and range to tolerance.",
+    "pain_safe": [
+      "low back"
+    ],
+    "category": "posterior chain/strength",
+    "references": [
+      "Adapted for available equipment",
+      "NSCA"
+    ]
+  },
+  {
+    "id": "slow-eccentric-face-pull-cable",
+    "name": "Slow-Eccentric Face Pull (cable)",
+    "primary_muscles": [
+      "rear deltoid",
+      "rhomboids"
+    ],
+    "secondary_muscles": [
+      "trapezius"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Pull rope toward face with elbows high, squeeze scapulae. (Variation: Slow-Eccentric Face Pull (cable))",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-1-2",
+    "precautions": "Use moderate load.Modify load and range to tolerance.",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "shoulder/rehab",
+    "references": [
+      "Adapted for available equipment",
+      "physio review"
+    ]
+  },
+  {
+    "id": "decline-incline-dumbbell-press-orig",
+    "name": "Decline Incline Dumbbell Press (orig)",
+    "primary_muscles": [
+      "pectoralis major",
+      "anterior deltoid"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "instructions": "45° bench press with control. (Variation: Decline Incline Dumbbell Press (orig))",
+    "sets": "3",
+    "reps": "6-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive shoulder elevation.",
+    "pain_safe": [],
+    "category": "chest/strength",
+    "references": [
+      "ACSM",
+      "Adapted for available equipment"
+    ]
+  },
+  {
+    "id": "isometric-hold-dumbbell-row",
+    "name": "Isometric Hold Dumbbell Row",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "rhomboids",
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Hinge at hip, row dumbbell to lower ribs. (Variation: Isometric Hold Dumbbell Row)",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid trunk rotation.",
+    "pain_safe": [],
+    "category": "back/strength",
+    "references": [
+      "ACSM",
+      "Adapted for available equipment"
+    ]
+  },
+  {
+    "id": "isolated-cable-glute-kickback",
+    "name": "Isolated Cable Glute Kickback",
+    "primary_muscles": [
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Attach ankle strap, extend leg backward against resistance. (Variation: Isolated Cable Glute Kickback)",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-0-2",
+    "precautions": "Do not arch lower back.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "legs/glutes/accessory",
+    "references": [
+      "Adapted for available equipment",
+      "exercise texts"
+    ]
+  },
+  {
+    "id": "slow-eccentric-dumbbell-bench-press",
+    "name": "Slow-Eccentric Dumbbell Bench Press",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "anterior deltoid"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "instructions": "Press dumbbells up while maintaining scapular stability. (Variation: Slow-Eccentric Dumbbell Bench Press)",
+    "sets": "3",
+    "reps": "6-12",
+    "tempo": "2-0-2",
+    "precautions": "Control descent.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "chest/strength",
+    "references": [
+      "Adapted for available equipment",
+      "NSCA"
+    ]
+  },
+  {
+    "id": "isolated-band-pull-apart",
+    "name": "Isolated Band Pull-apart",
+    "primary_muscles": [
+      "rear deltoid",
+      "rhomboids"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Pull band apart at shoulder height, squeeze scapulae. (Variation: Isolated Band Pull-apart)",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-1-2",
+    "precautions": "Controlled shoulders.Modify load and range to tolerance.",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "shoulder/rehab",
+    "references": [
+      "Adapted for available equipment",
+      "physio"
+    ]
+  },
+  {
+    "id": "isolated-goblet-squat",
+    "name": "Isolated Goblet Squat",
+    "primary_muscles": [
+      "quadriceps",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "core"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Hold weight at chest and squat keeping upright torso. (Variation: Isolated Goblet Squat)",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Keep knees tracking toes.Modify load and range to tolerance.",
+    "pain_safe": [
+      "knee"
+    ],
+    "category": "legs/strength",
+    "references": [
+      "ACSM",
+      "Adapted for available equipment"
+    ]
+  },
+  {
+    "id": "isometric-hold-band-face-pull",
+    "name": "Isometric Hold Band Face Pull",
+    "primary_muscles": [
+      "rear deltoid",
+      "rhomboids"
+    ],
+    "secondary_muscles": [
+      "trapezius"
+    ],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Anchor band at head height. Pull toward face, elbows high, squeeze scapulae. (Variation: Isometric Hold Band Face Pull)",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-1-2",
+    "precautions": "Keep shoulders low. Avoid shrugging.",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "shoulder/rehab",
+    "references": [
+      "Adapted for available equipment",
+      "Physio review"
+    ]
+  },
+  {
+    "id": "band-resisted-cable-face-pull",
+    "name": "Band-Resisted Cable Face Pull",
+    "primary_muscles": [
+      "rear deltoid",
+      "rhomboids"
+    ],
+    "secondary_muscles": [
+      "trapezius"
+    ],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Pull rope toward face with elbows high. (Variation: Band-Resisted Cable Face Pull)",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-1-2",
+    "precautions": "Keep shoulders down.Modify load and range to tolerance.",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "push/shoulder/rehab",
+    "references": [
+      "Adapted for available equipment",
+      "physio review"
+    ]
+  },
+  {
+    "id": "unilateral-barbell-overhead-press",
+    "name": "Unilateral Barbell Overhead Press",
+    "primary_muscles": [
+      "anterior deltoid"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "upper chest"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Press barbell overhead from collarbone. (Variation: Unilateral Barbell Overhead Press)",
+    "sets": "4",
+    "reps": "5-8",
+    "tempo": "2-0-1",
+    "precautions": "Do not lean back.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "push/shoulder/compound",
+    "references": [
+      "Adapted for available equipment",
+      "NSCA"
+    ]
+  },
+  {
+    "id": "single-arm-goblet-squat",
+    "name": "Single-Arm Goblet Squat",
+    "primary_muscles": [
+      "quadriceps",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "core"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Hold weight at chest and squat keeping upright torso. (Variation: Single-Arm Goblet Squat)",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Keep knees tracking toes.Modify load and range to tolerance.",
+    "pain_safe": [
+      "knee"
+    ],
+    "category": "legs/strength",
+    "references": [
+      "ACSM",
+      "Adapted for available equipment"
+    ]
+  },
+  {
+    "id": "unilateral-band-external-rotation",
+    "name": "Unilateral Band External Rotation",
+    "primary_muscles": [
+      "infraspinatus",
+      "teres minor"
+    ],
+    "secondary_muscles": [
+      "posterior deltoid"
+    ],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Anchor band at elbow height. Keep elbow by side at 90°. Rotate forearm outward slowly and return. (Variation: Unilateral Band External Rotation)",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid sharp pain. Start very light.",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "shoulder/rehab",
+    "references": [
+      "Adapted for available equipment",
+      "AAOS rotator cuff guidance"
+    ]
+  },
+  {
+    "id": "band-resisted-clamshell",
+    "name": "Band-Resisted Clamshell",
+    "primary_muscles": [
+      "gluteus medius",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Lie on side, knees bent. Open top knee against band. (Variation: Band-Resisted Clamshell)",
+    "sets": "3",
+    "reps": "15",
+    "tempo": "2-0-2",
+    "precautions": "Keep pelvis stable.Modify load and range to tolerance.",
+    "pain_safe": [
+      "knee"
+    ],
+    "category": "hip/rehab",
+    "references": [
+      "Adapted for available equipment",
+      "PFPS meta-analysis"
+    ]
+  },
+  {
+    "id": "isolated-band-chest-fly",
+    "name": "Isolated Band Chest Fly",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Anchor behind; control arc bringing hands together at midline. (Variation: Isolated Band Chest Fly)",
+    "sets": "3",
+    "reps": "10-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid overstretching.",
+    "pain_safe": [],
+    "category": "chest/accessory",
+    "references": [
+      "Adapted for available equipment",
+      "exercise texts"
+    ]
+  },
+  {
+    "id": "slow-eccentric-tempo-goblet-squat-3-1-2",
+    "name": "Slow-Eccentric Tempo Goblet Squat (3-1-2)",
+    "primary_muscles": [
+      "quadriceps",
+      "gluteus maximus"
+    ],
+    "secondary_muscles": [
+      "core"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Slow 3s descent, 1s pause, 2s ascent. (Variation: Slow-Eccentric Tempo Goblet Squat (3-1-2))",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "3-1-2",
+    "precautions": "Control and posture.Modify load and range to tolerance.",
+    "pain_safe": [
+      "knee"
+    ],
+    "category": "legs/tempo",
+    "references": [
+      "Adapted for available equipment",
+      "hypertrophy studies"
+    ]
+  },
+  {
+    "id": "slow-eccentric-inverted-row",
+    "name": "Slow-Eccentric Inverted Row",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "rhomboids",
+      "biceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Pull chest toward bar with the body straight. (Variation: Slow-Eccentric Inverted Row)",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-1",
+    "precautions": "Adjust height to modify difficulty.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "back/strength",
+    "references": [
+      "Adapted for available equipment",
+      "physio guides"
+    ]
+  },
+  {
+    "id": "isolated-dumbbell-bench-press",
+    "name": "Isolated Dumbbell Bench Press",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "anterior deltoid"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "instructions": "Press dumbbells up while maintaining scapular stability. (Variation: Isolated Dumbbell Bench Press)",
+    "sets": "3",
+    "reps": "6-12",
+    "tempo": "2-0-2",
+    "precautions": "Control descent.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "chest/strength",
+    "references": [
+      "Adapted for available equipment",
+      "NSCA"
+    ]
+  },
+  {
+    "id": "unilateral-inverted-row",
+    "name": "Unilateral Inverted Row",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "rhomboids",
+      "biceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Pull chest toward bar with the body straight. (Variation: Unilateral Inverted Row)",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-1",
+    "precautions": "Adjust height to modify difficulty.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "back/strength",
+    "references": [
+      "Adapted for available equipment",
+      "physio guides"
+    ]
+  },
+  {
+    "id": "unilateral-incline-dumbbell-row",
+    "name": "Unilateral Incline Dumbbell Row",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "rhomboids"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "instructions": "Lie chest-down on incline bench and row. (Variation: Unilateral Incline Dumbbell Row)",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Maintain thoracic stability.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "back/accessory",
+    "references": [
+      "Adapted for available equipment",
+      "exercise texts"
+    ]
+  },
+  {
+    "id": "isometric-hold-chin-tuck",
+    "name": "Isometric Hold Chin Tuck",
+    "primary_muscles": [
+      "deep neck flexors"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "instructions": "Retract chin gently to create a double chin and hold. (Variation: Isometric Hold Chin Tuck)",
+    "sets": "2",
+    "reps": "10",
+    "tempo": "2-0-2",
+    "precautions": "No sharp pain.Modify load and range to tolerance.",
+    "pain_safe": [
+      "neck"
+    ],
+    "category": "neck/rehab",
+    "references": [
+      "Adapted for available equipment",
+      "cervical rehab review"
+    ]
+  },
+  {
+    "id": "band-resisted-band-face-pull",
+    "name": "Band-Resisted Band Face Pull",
+    "primary_muscles": [
+      "rear deltoid",
+      "rhomboids"
+    ],
+    "secondary_muscles": [
+      "trapezius"
+    ],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Anchor band at head height. Pull toward face, elbows high, squeeze scapulae. (Variation: Band-Resisted Band Face Pull)",
+    "sets": "3",
+    "reps": "10-15",
+    "tempo": "2-1-2",
+    "precautions": "Keep shoulders low. Avoid shrugging.",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "shoulder/rehab",
+    "references": [
+      "Adapted for available equipment",
+      "Physio review"
+    ]
+  },
+  {
+    "id": "slow-eccentric-band-chest-fly",
+    "name": "Slow-Eccentric Band Chest Fly",
+    "primary_muscles": [
+      "pectoralis major"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Anchor behind; control arc bringing hands together at midline. (Variation: Slow-Eccentric Band Chest Fly)",
+    "sets": "3",
+    "reps": "10-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid overstretching.",
+    "pain_safe": [],
+    "category": "chest/accessory",
+    "references": [
+      "Adapted for available equipment",
+      "exercise texts"
+    ]
+  },
+  {
+    "id": "feet-elevated-cable-lateral-raise",
+    "name": "Feet-Elevated Cable Lateral Raise",
+    "primary_muscles": [
+      "lateral deltoid"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands",
+      "bench",
+      "dumbbells"
+    ],
+    "instructions": "Raise arm to side with cable to shoulder height. (Variation: Feet-Elevated Cable Lateral Raise)",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-0-2",
+    "precautions": "Use moderate weight for control.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "push/shoulder/isolation",
+    "references": [
+      "Adapted for available equipment",
+      "exercise guides"
+    ]
+  },
+  {
+    "id": "band-resisted-lying-leg-curl",
+    "name": "Band-Resisted Lying Leg Curl",
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands",
+      "bench"
+    ],
+    "instructions": "Curl legs toward glutes under control. (Variation: Band-Resisted Lying Leg Curl)",
+    "sets": "3",
+    "reps": "8-12",
+    "tempo": "2-0-2",
+    "precautions": "Avoid jerking.",
+    "pain_safe": [],
+    "category": "legs/hamstrings/isolation",
+    "references": [
+      "Adapted for available equipment",
+      "exercise texts"
+    ]
+  },
+  {
+    "id": "close-grip-barbell-row",
+    "name": "Close-Grip Barbell Row",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "rhomboids",
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "instructions": "Hinge at hips, row barbell to ribs. (Variation: Close-Grip Barbell Row)",
+    "sets": "4",
+    "reps": "6-10",
+    "tempo": "2-0-2",
+    "precautions": "Maintain neutral spine.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "pull/back/compound",
+    "references": [
+      "Adapted for available equipment",
+      "NSCA"
+    ]
+  },
+  {
+    "id": "unilateral-band-pull-apart",
+    "name": "Unilateral Band Pull-apart",
+    "primary_muscles": [
+      "rear deltoid",
+      "rhomboids"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "resistance bands"
+    ],
+    "instructions": "Pull band apart at shoulder height, squeeze scapulae. (Variation: Unilateral Band Pull-apart)",
+    "sets": "3",
+    "reps": "12-15",
+    "tempo": "2-1-2",
+    "precautions": "Controlled shoulders.Modify load and range to tolerance.",
+    "pain_safe": [
+      "shoulder"
+    ],
+    "category": "shoulder/rehab",
+    "references": [
+      "Adapted for available equipment",
+      "physio"
+    ]
+  },
+  {
+    "id": "isometric-hold-barbell-bent-over-row-alt",
+    "name": "Isometric Hold Barbell Bent-over Row (Alt)",
+    "primary_muscles": [
+      "latissimus dorsi"
+    ],
+    "secondary_muscles": [
+      "rhomboids",
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "instructions": "Hinge and row the barbell keeping back flat. (Variation: Isometric Hold Barbell Bent-over Row (Alt))",
+    "sets": "3",
+    "reps": "5-8",
+    "tempo": "2-0-2",
+    "precautions": "Keep neutral spine.Modify load and range to tolerance.",
+    "pain_safe": [],
+    "category": "back/strength",
+    "references": [
+      "Adapted for available equipment",
+      "NSCA"
+    ]
+  },
+  {
+    "id": "plank",
+    "name": "Plank",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "transverse abdominis",
+      "rectus abdominis"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "category": "core",
+    "instructions": "Perform the Plank with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "20-45s hold",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [
+      "low back"
+    ],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  },
+  {
+    "id": "side-plank",
+    "name": "Side Plank",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "obliques",
+      "transverse abdominis"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "category": "core",
+    "instructions": "Perform the Side Plank with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "20-45s hold",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [
+      "low back"
+    ],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  },
+  {
+    "id": "dead-bug",
+    "name": "Dead Bug",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "transverse abdominis",
+      "rectus abdominis"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "category": "core",
+    "instructions": "Perform the Dead Bug with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "20-45s hold",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [
+      "low back"
+    ],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  },
+  {
+    "id": "bird-dog",
+    "name": "Bird Dog",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "erector spinae",
+      "gluteus maximus"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "category": "core",
+    "instructions": "Perform the Bird Dog with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "20-45s hold",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [
+      "low back"
+    ],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  },
+  {
+    "id": "crunch",
+    "name": "Crunch",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "rectus abdominis upper"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "category": "core",
+    "instructions": "Perform the Crunch with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  },
+  {
+    "id": "cable-crunch",
+    "name": "Cable Crunch",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "rectus abdominis upper"
+    ],
+    "equipment": [
+      "cable machine"
+    ],
+    "category": "core",
+    "instructions": "Perform the Cable Crunch with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  },
+  {
+    "id": "incline-sit-up",
+    "name": "Incline Sit-up",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "rectus abdominis upper"
+    ],
+    "equipment": [
+      "bench"
+    ],
+    "category": "core",
+    "instructions": "Perform the Incline Sit-up with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  },
+  {
+    "id": "hanging-leg-raise",
+    "name": "Hanging Leg Raise",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "rectus abdominis lower",
+      "hip flexors"
+    ],
+    "equipment": [
+      "pull-up bar"
+    ],
+    "category": "core",
+    "instructions": "Perform the Hanging Leg Raise with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  },
+  {
+    "id": "reverse-crunch",
+    "name": "Reverse Crunch",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "rectus abdominis lower"
+    ],
+    "equipment": [
+      "bench"
+    ],
+    "category": "core",
+    "instructions": "Perform the Reverse Crunch with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  },
+  {
+    "id": "lying-leg-raise",
+    "name": "Lying Leg Raise",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "rectus abdominis lower"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "category": "core",
+    "instructions": "Perform the Lying Leg Raise with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  },
+  {
+    "id": "russian-twist",
+    "name": "Russian Twist",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "obliques"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "category": "core",
+    "instructions": "Perform the Russian Twist with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  },
+  {
+    "id": "cable-woodchop",
+    "name": "Cable Woodchop",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "obliques"
+    ],
+    "equipment": [
+      "cable machine"
+    ],
+    "category": "core",
+    "instructions": "Perform the Cable Woodchop with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  },
+  {
+    "id": "pallof-press",
+    "name": "Pallof Press",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "obliques",
+      "transverse abdominis"
+    ],
+    "equipment": [
+      "resistance bands"
+    ],
+    "category": "core",
+    "instructions": "Perform the Pallof Press with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  },
+  {
+    "id": "side-plank-hip-dip",
+    "name": "Side Plank Hip Dip",
+    "primary_muscles": [
+      "core"
+    ],
+    "secondary_muscles": [
+      "obliques",
+      "transverse abdominis"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "category": "core",
+    "instructions": "Perform the Side Plank Hip Dip with strict form; avoid compensations. Focus on controlled movement and breathing.",
+    "sets": "3",
+    "reps": "8-15",
+    "tempo": "2-0-2",
+    "precautions": "Avoid excessive spinal loading or jerking. Stop if pain occurs.",
+    "pain_safe": [],
+    "references": [
+      "ACSM core stability guidelines",
+      "NSCA core training position stand"
+    ]
+  }
+]
