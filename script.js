@@ -3,6 +3,7 @@
 // Uses fetch('exercises.json') with fallback to embedded DB.
 
 let exercisesDB = null;
+let exercisesMap = {}; // fast lookup by id
 
 // Fetch exercises.json; fallback to window.EMBEDDED_DB if fetch blocked (file://)
 async function loadExercises(){
@@ -15,6 +16,8 @@ async function loadExercises(){
     console.warn('Failed to fetch exercises.json — using embedded DB if present.', err);
     exercisesDB = window.EMBEDDED_DB || [];
   }
+  // build lookup map
+  exercisesDB.forEach(ex => { exercisesMap[ex.id] = ex; });
   // expose for debugging
   window.exercisesDB = exercisesDB;
   return exercisesDB;
@@ -104,28 +107,54 @@ function renderPlan(plan){
   const container = document.getElementById('plan-body');
   if(!container) return;
   container.innerHTML='';
-  const meta = document.createElement('p'); meta.className='muted'; meta.textContent = `Level: ${plan.meta.level} • Goal: ${plan.meta.goal} • ${plan.days.length} sessions/week`;
+
+  const meta = document.createElement('p'); 
+  meta.className='muted'; 
+  meta.textContent = `Level: ${plan.meta.level} • Goal: ${plan.meta.goal} • ${plan.days.length} sessions/week`;
   container.appendChild(meta);
+
   plan.days.forEach((d,i)=>{
-    const dayCard = document.createElement('section'); dayCard.className='card'; dayCard.style.margin='12px 0';
-    const hd = document.createElement('div'); hd.className='card-head neon-bar'; hd.innerHTML = `<h4>Day ${i+1}: ${d.sessionType}</h4>`;
-    const bd = document.createElement('div'); bd.className='card-body';
-    d.warmup.forEach(w=> { const p = document.createElement('p'); p.textContent = `Warm-up: ${w.name}`; bd.appendChild(p); });
-    d.exercises.forEach(ex=>{
-      const btn = document.createElement('button'); btn.className='exercise-card'; btn.type='button'; btn.style.width='100%';
-      btn.innerHTML = `<strong>${ex.name}</strong><div class="muted">${ex.sets} × ${ex.reps}${ex.isRehab?'<em> • Rehab</em>':''}</div>`;
+    const dayCard = document.createElement('section'); 
+    dayCard.className='card'; 
+    dayCard.style.margin='12px 0';
+
+    const hd = document.createElement('div'); 
+    hd.className='card-head neon-bar'; 
+    hd.innerHTML = `<h4>Day ${i+1}: ${d.sessionType}</h4>`;
+
+    const bd = document.createElement('div'); 
+    bd.className='card-body';
+
+    // Warmups
+    d.warmup?.forEach(w=> { 
+      const p = document.createElement('p'); 
+      p.textContent = `Warm-up: ${w.name} (${w.reps||""})`; 
+      bd.appendChild(p); 
+    });
+
+    // Exercises
+    d.exercises?.forEach(ex=>{
+      const dbEx = exercisesMap[ex.id] || {};
+      const exName = dbEx.name || ex.name || ex.id || "Unknown Exercise";
+      const btn = document.createElement('button'); 
+      btn.className='exercise-card'; 
+      btn.type='button'; 
+      btn.style.width='100%';
+      btn.innerHTML = `<strong>${exName}</strong><div class="muted">${ex.sets||"?"} × ${ex.reps||"?"}${ex.isRehab?'<em> • Rehab</em>':''}</div>`;
       btn.addEventListener('click', ()=> showExerciseDetails(ex.id));
       bd.appendChild(btn);
     });
-    dayCard.appendChild(hd); dayCard.appendChild(bd);
+
+    dayCard.appendChild(hd); 
+    dayCard.appendChild(bd);
     container.appendChild(dayCard);
   });
 }
 
 // show exercise details in a simple modal-like alert (kept lightweight)
 function showExerciseDetails(id){
-  const ex = (exercisesDB||[]).find(e=> e.id===id) || {name:id, instructions:'No details available.'};
-  let detail = `Exercise: ${ex.name}\nPrimary: ${(ex.primary_muscles||[]).join(', ')}\nSets×Reps: ${ex.sets}×${ex.reps}\nInstructions: ${ex.instructions || '—'}\nPrecautions: ${ex.precautions || '—'}`;
+  const ex = exercisesMap[id] || {name:id, instructions:'No details available.'};
+  let detail = `Exercise: ${ex.name}\nPrimary: ${(ex.primary_muscles||[]).join(', ')}\nInstructions: ${ex.instructions || '—'}\nPrecautions: ${ex.precautions || '—'}`;
   if(ex.video){
     detail += `\nVideo: ${ex.video} (suggested: ${ex.video_suggested || 'trusted source'})`;
   }
