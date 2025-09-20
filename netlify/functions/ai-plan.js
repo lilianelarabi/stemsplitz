@@ -37,15 +37,18 @@ ${JSON.stringify(exercises)}
       }
     );
 
-    if (!response.ok) {
-      const text = await response.text();
-      console.error("Gemini API error:", text);
-      return {
-        statusCode: 500,
-        body: JSON.stringify({ error: "Gemini API failed", details: text })
-      };
-    }
-
+if (!response.ok) {
+  const text = await response.text();
+  console.error("Gemini API error:", text);
+  return {
+    statusCode: response.status,
+    body: JSON.stringify({
+      error: "Gemini API failed",
+      status: response.status,
+      details: text
+    })
+  };
+}
     const data = await response.json();
     console.log("Gemini raw response:", data);
 
