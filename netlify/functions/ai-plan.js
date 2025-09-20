@@ -1,5 +1,4 @@
 ﻿// netlify/functions/ai-plan.js
-import fetch from "node-fetch";
 
 export async function handler(event) {
   try {
