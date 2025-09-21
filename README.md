@@ -12,38 +12,17 @@ AI-Powered Fitness & Rehab Coach
    ![Landing Page](public/screenshots/stemsplitz6.png)
 
 - **AI Generator**  
-  ![AI Generator](public/screenshots/stemsplitz2.png )
+  ![AI Generator](public/screenshots/stemsplitz3.png )
 
 - **Rehab Mode**  
-  ![Rehab Page](public/screenshots/stemsplitz4)
+  ![Rehab Page](public/screenshots/stemsplitz4.png)
 
   - **calorie calc**  
-  ![calorie calc](public/screenshots/stemsplitz3.png)
+  ![calorie calc](public/screenshots/stemsplitz2.png)
 
 
 ---
 
 ## 📊 Pitch Deck
-[📥 Download the Pitch Deck](public/StemSplitz-Pitch-Deck.pdf)
-# StemSplitz ⚡
-AI-Powered Fitness & Rehab Coach
+[📥 Download the Pitch Deck](public/pitch_deck.pdf/stemsplitzpitch.pdf)
 
-[🌐 Live Demo](https://stemsplitzz.netlify.app/)  
-
----
-
-## 📸 Screenshots
-
-- **Landing Page**  
-  ![Landing Page](public/screenshot-landing.png)
-
-- **AI Generator**  
-  ![AI Generator](public/screenshot-generator.png)
-
-- **Rehab Mode**  
-  ![Rehab Page](public/screenshot-rehab.png)
-
----
-
-## 📊 Pitch Deck
-[📥 Download the Pitch Deck](public/StemSplitz-Pitch-Deck.pdf)
