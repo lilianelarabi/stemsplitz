@@ -9,12 +9,17 @@ AI-Powered Fitness & Rehab Coach
 
 - **Landing Page**  
   ![Landing Page](public/screenshots/stemsplitz.png)
+   ![Landing Page](public/screenshots/stemsplitz6.png)
 
 - **AI Generator**  
-  ![AI Generator](public/screenshot-generator.png)
+  ![AI Generator](public/screenshots/stemsplitz2.png )
 
 - **Rehab Mode**  
-  ![Rehab Page](public/screenshot-rehab.png)
+  ![Rehab Page](public/screenshots/stemsplitz4)
+
+  - **calorie calc**  
+  ![calorie calc](public/screenshots/stemsplitz3.png)
+
 
 ---
 
