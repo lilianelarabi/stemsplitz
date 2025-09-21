@@ -8,7 +8,7 @@ AI-Powered Fitness & Rehab Coach
 ## 📸 Screenshots
 
 - **Landing Page**  
-  ![Landing Page](public/screenshot-landing.png)
+  ![Landing Page](public/screenshots/stemsplitz.png)
 
 - **AI Generator**  
   ![AI Generator](public/screenshot-generator.png)
