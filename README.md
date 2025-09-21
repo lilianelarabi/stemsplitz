@@ -26,6 +26,8 @@ It bridges a critical gap: delivering **evidence-based programming** that adapts
 <p align="center">
   <img src="public/screenshots/stemsplitz2.png" alt="Calorie Calculator" width="60%"/>
 </p>
+---
+
 ## 🚀 Key Features
 - **126+ curated exercises** with biomechanical metadata (muscle groups, equipment, rehab-safe tags)  
 - **AI-generated weekly training plans** (via Gemini 1.5 Flash) based on **filters like level, goals, injuries, and available equipment**  
