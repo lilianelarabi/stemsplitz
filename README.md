@@ -1,4 +1,4 @@
-# StemSplitz ⚡
+# STEMFit ⚡
 **AI-Powered Fitness & Rehab Coach**
 
 StemSplitz is an intelligent training assistant that merges **exercise science (ACSM/NSCA standards)** with **generative AI** to create **personalized, rehab-safe training plans**.  
