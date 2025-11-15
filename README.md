@@ -4,7 +4,7 @@
 StemSplitz is an intelligent training assistant that merges **exercise science (ACSM/NSCA standards)** with **generative AI** to create **personalized, rehab-safe training plans**.  
 It bridges a critical gap: delivering **evidence-based programming** that adapts to individual goals, injuries, and equipment — something most fitness apps overlook.
 
-🔗 [Live Demo](https://agent-6911f772975496a7139faa53--stemsplitzzz.netlify.app/)  
+🔗 [Live Demo](https://youtu.be/fyB24kGy5YM)  
 📊 [Pitch Deck (PDF)](public/pitch_deck.pdf/stemsplitzpitch.pdf)
 ---
 
